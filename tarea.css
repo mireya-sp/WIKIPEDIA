@@ -1,0 +1,11 @@
+h1 {
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+}
+ul {
+    border: 5px solid gray;
+    font-size: 30px;
+    height: 50px;
+    width: 325px;
+}
