@@ -1,0 +1,14 @@
+.icono{
+    width: 10px;
+    height: 10px;
+    text-align: left;
+}
+.imagen{
+    text-align: center;
+    margin-left: 90px;
+}
+.mapa {
+    width: 20px;
+    height: 20px;
+    text-align: right;
+}
